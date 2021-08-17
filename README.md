@@ -16,5 +16,3 @@
 - 😄 Pronouns: ... he/him
 - 
 - ⚡ Fun fact: ... By the time I was 18 months old I had already traveled through 18 states and by 16 years old I had traveled through all 48 contiguous states!
-- 
--->
