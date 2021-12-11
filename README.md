@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on ... HRF Asylum product
+- 🔭 I’m currently working on ... Virtual Self-Driving Car and bot to beat Doom!
 - 
 - 🌱 I’m currently learning ... Tensorflow!
 - 
